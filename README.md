@@ -966,13 +966,20 @@ Resources around stoic philosophy.
 
 ## Books
 
+### Classical
+
 - [Meditations](https://www.amazon.com/Meditations-AmazonClassics-Marcus-Aurelius-ebook/dp/B07QQRGH6R) - Marcus Aurelius
 - [Dialogues and Essays](https://www.amazon.com/Dialogues-Essays-Oxford-Worlds-Classics-ebook/dp/B005JJ9RN8) - Seneca
-- [Handbook](https://www.amazon.com/Handbook-Encheiridion-Hackett-Classics-ebook/dp/B004EYT56I) - Epictetus
-- [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358)
-- [The Daily Stoic](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736)
-- [An Essay on Marcus Aurelius](http://books.google.com/books?id=BOY-AAAAIAAJ&pg=PA217&dq=Matthew+Arnold+Marcus+Aurelius&lr=&ei=9DPVSfU_gqzOBMKrmfMC) by Matthew Arnold
-- [Enchiridion](https://roamresearch.com/#/app/rroudt-public/page/wwsDLupqO) written by Epictetus' student Arrian
+- [Letters on Ethics: To Lucilius](https://www.amazon.com/Letters-Ethics-Lucilius-Complete-Annaeus/dp/022652843X) - Seneca
+- [Handbook](https://www.amazon.com/Handbook-Encheiridion-Hackett-Classics-ebook/dp/B004EYT56I) - written by Epictetus' student Arrian
+- [Enchiridion](https://roamresearch.com/#/app/rroudt-public/page/wwsDLupqO) - written by Epictetus' student Arrian
+
+### Modern
+
+- [How to Think Like a Roman Emperor](https://www.amazon.com/How-Think-Like-Roman-Emperor/dp/1250621437) - Donald J. Robertson
+- [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358) - Ryan Holiday
+- [The Daily Stoic](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736) - Ryan Holiday
+- [An Essay on Marcus Aurelius](http://books.google.com/books?id=BOY-AAAAIAAJ&pg=PA217&dq=Matthew+Arnold+Marcus+Aurelius&lr=&ei=9DPVSfU_gqzOBMKrmfMC) - Matthew Arnold
 
 ## Videos
 
